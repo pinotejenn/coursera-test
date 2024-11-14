@@ -1,5 +1,5 @@
-# coursera-test
-Coursera test repository
+# Oceans Music
+Oceans music repository
 <!DOCTYPE html>
 <html lang="en">
 <head>
